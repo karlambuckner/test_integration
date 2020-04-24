@@ -1,25 +1,25 @@
-# _{Simple Integration with VGS}_
+# _Simple Integration with VGS_
 
-#### _{This app will take credit card information and encrypt the data, keeping it secure}, {04/24/2020}_
+#### _This app will take credit card information and encrypt the data, keeping it secure, 04/24/2020_
 
-#### By _**{Karla Buckner}**_
+#### By _**Karla Buckner**_
 
 ## Description
 
-_{Upon entering your information, clicking the submit button will encrypt your data using VGS.}_
+_Upon entering your information, clicking the submit button will encrypt your data using VGS._
 
 ## Known Bugs
 
-_{There are no known bugs at this time}_
+_There are no known bugs at this time_
 
 ## Support and contact details
 
-_{Contact karlabuckner.pdx@gmail.com if you have questions or feedback}_
+_Contact karlabuckner.pdx@gmail.com if you have questions or feedback_
 
 ## Technologies Used
 
-_{HTML, Very Good Security}_
+_HTML, Ruby_
 
 ### License
 
-Copyright (c) 2020 **_{Karla Buckner}_**
+Copyright (c) 2020 **_Karla Buckner_**
